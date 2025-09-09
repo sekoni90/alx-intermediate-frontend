@@ -1,0 +1,21 @@
+# SASS Installation Steps
+
+1. (Optional) On Ubuntu, install Node.js v20.16 using:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+2. Exit the terminal using the `exit` command, then reopen it.
+3. Make sure Node.js is installed (run `node -v`).
+4. Install SASS using npm:
+   npm install sass -v 3.7.4
+5. Verify SASS installation (optional):
+   npx sass --version
+# SASS Installation Steps
+
+1. Open your terminal in the project root directory.
+2. (Optional) If using Ubuntu, install Node.js v20.16 with:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   # Then exit and reopen the terminal.
+3. Make sure Node.js is installed (node -v).
+4. Install SASS using npm:
+   npm install sass -v 3.7.4
+5. Verify SASS installation:
+   npx sass --version
