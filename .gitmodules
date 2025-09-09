@@ -1,0 +1,3 @@
+[submodule "0x02-tailwind-css"]
+	path = 0x02-tailwind-css
+	url = https://github.com/sekoni90/alx-intermediate-frontend.git
